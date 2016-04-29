@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Tools"
-description: "我的小小工具箱"
+title: "软件"
+description: "软件工具箱"
 header-img: "img/autumn.jpg"
 ---
 
