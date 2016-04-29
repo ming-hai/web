@@ -51,7 +51,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "Azeril"
+      author: "芝麻软件工作室"
       header-img: "img/fantasy.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
