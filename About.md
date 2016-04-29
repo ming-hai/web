@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About"
+title: "关于我们"
 description: "芝麻软件工作室，总算找到你了"
 header-img: "img/plane.jpg"
 ---
