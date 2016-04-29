@@ -9,6 +9,9 @@ header-img: "img/plane.jpg"
     <p><img src="http://dreamofbook.qiniudn.com/Zero.png" align="center"></p>
 </center>
 
+所有成员均具有十几年软件设计经验，精通语言有ASM、C、C++、Java、Object-C等等，
+精通Windows、Linux、wince、Android、IOS环境下软件开发设计。
+
 QQ：1005974096
 邮箱：1005974096@qq.com
 
@@ -16,3 +19,4 @@ QQ：1005974096
 <center>
     <p><img src="http://dreamofbook.qiniudn.com/hacker.png" align="center"></p>
 </center>
+
