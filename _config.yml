@@ -1,29 +1,28 @@
 # Site settings
-title: Microdust
+title: 芝麻软件工作室
 header-img: "img/autumn2.jpg"
-tagline: "吉光片羽"  
-description: "在遙遠的地方 一切虔誠終必相遇"  
+tagline: "芝麻软件工作室"  
+description: "芝麻软件工作室 十几年专业软件经验"  
 baseurl: ""
-#url: "http://azeril.me"
 url: "http://softroom.org"
 #url: "http://localhost:4000"
 
 # About/contact
 owner: 
-  name: "Azeril"
-  email: azeril@live.cn
-  bio: "明朝即長路 惜取此時心"
+  name: "芝麻软件工作室"
+  email: 1005974096@qq.com
+  bio: "芝麻软件工作室 十几年专业软件经验"
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
 favicon: img/favicon.ico
 
-douban_username: Azeril
-twitter_username: Azeril_Lapland  
-github_username: Azeril  
-facebook_username: Azeril_Lapland  
-weibo_username: Azeril  
-zhihu_username: Azeril  
+#douban_username: soft-room
+#twitter_username: soft-room  
+github_username: soft-room  
+#facebook_username: soft-room  
+#weibo_username: soft-room  
+#zhihu_username: soft-room  
 
 # Build settings  
 # use Github Flavored Markdown !important  
@@ -59,9 +58,9 @@ defaults:
 comments :
   provider : duoshuo
   duoshuo :
-    short_name : Azeril
+    short_name : 芝麻软件工作室
   disqus :
-      short_name : Azeril
+      short_name : 芝麻软件工作室
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-66863061-1
