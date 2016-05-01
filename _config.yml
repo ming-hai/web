@@ -68,4 +68,9 @@ google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
 
+# 网站统计
+analytics:
+    baidu:
+        siteid: 8905893d0b23fcad3d7a449e7d95c4f0        # 百度统计 js 代码后的字符串
+
 # Links to include in footer navigation
