@@ -15,6 +15,11 @@ header-img: "img/plane.jpg"
 QQ：1005974096
 邮箱：1005974096@qq.com
 
+<script>
+
+<img  style="CURSOR: pointer" onclick="javascript:window.open('http://b.qq.com/webc.htm?new=0&sid=1005974096&o=softroom.org&q=7', '_blank', 'height=502, width=644,toolbar=no,scrollbars=no,menubar=no,status=no');"  border="0" SRC=http://wpa.qq.com/pa?p=1:1005974096:1 alt="点击这里给我发消息">
+
+</script>
 
 <center>
     <p><img src="http://dreamofbook.qiniudn.com/hacker.png" align="center"></p>
