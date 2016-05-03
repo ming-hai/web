@@ -13,7 +13,7 @@ header-img: "img/plane.jpg"
 精通Windows、Linux、wince、Android、IOS环境下软件开发设计，还具备丰富嵌入式CPU（Cortex M0、Cortex M1、Cortex M2、Cortex M3、Cortex M4、arm7、arm9、arm11、cortex A8、cortex A9）软件设计经验。
 
 QQ：1005974096
-邮箱：1005974096@qq.com
+<a href="mailto:1005974096@qq.com">邮箱：1005974096@qq.com</a>
 
 
 
