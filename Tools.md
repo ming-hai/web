@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "软件"
+title: "软件列表"
 description: "软件工具箱"
 header-img: "img/autumn.jpg"
 ---
