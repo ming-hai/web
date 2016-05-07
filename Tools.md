@@ -8,7 +8,7 @@ header-img: "img/autumn.jpg"
 ###  TCP_UDP网络调试工具
 
 [TCP_UDP网络调试工具](https://sourceforge.net/projects/softroom/files/release/TCP_UDP_debug_tool/1.0.0.1/TCP_UDP_DEBUG_TOOL.exe/download)
-套接字（socket）网络调试助手
+套接字（socket） [使用说明](http://softroom.org/TCP-UDP-debug-tool.html)  网络调试助手
 
 
 ### Rule 
