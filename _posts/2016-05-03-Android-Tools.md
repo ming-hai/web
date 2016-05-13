@@ -78,7 +78,7 @@ If you do not need Android Studio, you can download the basic Android command li
 </tr>
 <tr>
 <td style="padding: 4px 12px; vertical-align: top; border: 1px solid #dddddd; background-color: inherit;">
-<a href="http://dl.google.com/android/android-sdk_r24.4.1-windows.zip">android-sdk_r24.4.1-windows.zip</a>
+<a href="http://dl.google.com/android/android-sdk_r24.4.1-windows.zip">android-sdk_r24.4.1-windows.zip</a><br />
 No installer</td>
 <td style="padding: 4px 12px; vertical-align: top; border: 1px solid #dddddd; background-color: inherit;">190 MB 
 (199701062 bytes)</td>
