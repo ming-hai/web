@@ -143,5 +143,27 @@ Android JDK Download - 百度网盘下载<br />
 </tbody>
 </table>
 
+ADT Bundle & Plugin 百度网盘下载  <br />
+
+<table>
+<thead>
+<tr><th align="center">版本号</th><th align="center">Windows</th><th align="center">Mac OSX</th><th align="center">Linux</th></tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">23.0.2</td>
+<td align="center"><a href="http://pan.baidu.com/s/1pJx6amf">32位</a>/<a href="http://pan.baidu.com/s/1nt0XUI1">64位</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1hqGHhRI">64位</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1eQIhivw">32位</a>/<a href="http://pan.baidu.com/s/1o6E3a4q">64位</a></td>
+</tr>
+<tr>
+<td align="center">23.0.0</td>
+<td align="center"><a href="http://pan.baidu.com/s/1jG7PAN8">32位</a>/<a href="http://pan.baidu.com/s/1pJHOPtT">64位</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1pJuinMz">64位</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1o6FOXmi">32位</a>/<a href="http://pan.baidu.com/s/1kTKENtX">64位</a></td>
+</tr>
+</tbody>
+</table>
+
 
 
