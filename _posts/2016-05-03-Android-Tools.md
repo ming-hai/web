@@ -22,7 +22,7 @@ FOR WINDOWS (1166 MB)</a>
 <tr>
 <td style="padding: 4px 12px; vertical-align: top; border: 1px solid #dddddd; background-color: inherit;" rowspan="3">Windows</td>
 <td style="padding: 4px 12px; vertical-align: top; border: 1px solid #dddddd; background-color: inherit;">
-<a href="https://dl.google.com/dl/android/studio/install/2.0.0.20/android-studio-bundle-143.2739321-windows.exe">android-studio-bundle-143.2739321-windows.exe</a> 
+<a href="https://dl.google.com/dl/android/studio/install/2.0.0.20/android-studio-bundle-143.2739321-windows.exe">android-studio-bundle-143.2739321-windows.exe</a> <br />
 Includes Android SDK **(recommended)**</td>
 <td id="win-bundle-size" style="padding: 4px 12px; vertical-align: top; border: 1px solid #dddddd; background-color: inherit;">1166 MB 
 (1223633080 bytes)</td>
@@ -30,7 +30,7 @@ Includes Android SDK **(recommended)**</td>
 </tr>
 <tr>
 <td style="padding: 4px 12px; vertical-align: top; border: 1px solid #dddddd; background-color: inherit;">
-<a href="https://dl.google.com/dl/android/studio/install/2.0.0.20/android-studio-ide-143.2739321-windows.exe">android-studio-ide-143.2739321-windows.exe</a> 
+<a href="https://dl.google.com/dl/android/studio/install/2.0.0.20/android-studio-ide-143.2739321-windows.exe">android-studio-ide-143.2739321-windows.exe</a> <br />
 No Android SDK</td>
 <td style="padding: 4px 12px; vertical-align: top; border: 1px solid #dddddd; background-color: inherit;">264 MB 
 (277789224 bytes)</td>
@@ -38,7 +38,7 @@ No Android SDK</td>
 </tr>
 <tr>
 <td style="padding: 4px 12px; vertical-align: top; border: 1px solid #dddddd; background-color: inherit;">
-<a href="https://dl.google.com/dl/android/studio/ide-zips/2.0.0.20/android-studio-ide-143.2739321-windows.zip">android-studio-ide-143.2739321-windows.zip</a> 
+<a href="https://dl.google.com/dl/android/studio/ide-zips/2.0.0.20/android-studio-ide-143.2739321-windows.zip">android-studio-ide-143.2739321-windows.zip</a> <br />
 No Android SDK, no installer</td>
 <td style="padding: 4px 12px; vertical-align: top; border: 1px solid #dddddd; background-color: inherit;">280 MB 
 (294612422 bytes)</td>
