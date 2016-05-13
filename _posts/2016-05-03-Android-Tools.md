@@ -102,3 +102,46 @@ No installer</td>
 </tr>
 </tbody>
 </table>
+
+Android JDK Download - 百度网盘下载<br />
+
+<table>
+<thead>
+<tr><th align="center">版本号</th><th align="center">Windows</th><th align="center">Mac OSX</th><th align="center">Linux</th></tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">1.8 u77</td>
+<td align="center"><a href="http://pan.baidu.com/s/1hsvvOFU">32位</a>/<a href="http://pan.baidu.com/s/1hr8COlQ">64位</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1jHHwk9C">64位</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1dF8ZhIT">32bits-rpm</a>/<a href="http://pan.baidu.com/s/1dEAeOMH">32bits-tar</a>,<a href="http://pan.baidu.com/s/1cr4say">64bits-rpm</a> /<a href="http://pan.baidu.com/s/1bo5zmDh">64bits-tar</a></td>
+</tr>
+<tr>
+<td align="center">1.8 u74</td>
+<td align="center"><a href="http://pan.baidu.com/s/1pLQpHqF">32位</a>/<a href="http://pan.baidu.com/s/1kUDqyUV">64位</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1c2sgltm">64位</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1eRAIJS2">32bits-rpm</a>/<a href="http://pan.baidu.com/s/1gfPkfj9">32bits-tar</a>, <a href="http://pan.baidu.com/s/1hrMkapQ">64bits-rpm</a>/<a href="http://pan.baidu.com/s/1mivnFK0">64bits-tar</a></td>
+</tr>
+<tr>
+<td align="center">1.8 u5</td>
+<td align="center"><a href="http://pan.baidu.com/s/1jG0ycMa">32位</a>/<a href="http://pan.baidu.com/s/1kTJYRXH">64位</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1sj592Lf">64位</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1i3l7byH">rpm</a>/<a href="http://pan.baidu.com/s/1i3l7byH">tar</a></td>
+</tr>
+<tr>
+<td align="center">1.7 u60</td>
+<td align="center"><a href="http://pan.baidu.com/s/1i33hUPf">32位</a>/<a href="http://pan.baidu.com/s/1qWpw4EC">64位</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1c0AdKty">64位</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1bnAfM4R">rpm</a>/<a href="http://pan.baidu.com/s/1bncVJzD">tar</a></td>
+</tr>
+<tr>
+<td align="center">1.6 u45</td>
+<td align="center"><a href="http://pan.baidu.com/s/1c0s2NHQ">32位</a>/<a href="http://pan.baidu.com/s/1bnpgZnh">64位</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1jJxtc">64位</a></td>
+<td align="center"><a href="http://pan.baidu.com/s/1c06FWre">32位</a>/<a href="http://pan.baidu.com/s/191Rye">64位</a></td>
+</tr>
+</tbody>
+</table>
+
+
+
