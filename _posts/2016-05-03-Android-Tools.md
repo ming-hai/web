@@ -21,7 +21,9 @@ FOR WINDOWS (1166 MB)</a>
 <tr><th style="padding: 4px 12px; vertical-align: top; color: #ffffff; border: 1px solid #dddddd; font-weight: normal; background-color: #999999;">Platform</th><th style="padding: 4px 12px; vertical-align: top; color: #ffffff; border: 1px solid #dddddd; font-weight: normal; background-color: #999999;">Android Studio package</th><th style="padding: 4px 12px; vertical-align: top; color: #ffffff; border: 1px solid #dddddd; font-weight: normal; background-color: #999999;">Size</th><th style="padding: 4px 12px; vertical-align: top; color: #ffffff; border: 1px solid #dddddd; font-weight: normal; background-color: #999999;">SHA-1 checksum</th></tr>
 <tr>
 <td style="padding: 4px 12px; vertical-align: top; border: 1px solid #dddddd; background-color: inherit;" rowspan="3">Windows</td>
-<td style="padding: 4px 12px; vertical-align: top; border: 1px solid #dddddd; background-color: inherit;">[android-studio-bundle-143.2739321-windows.exe](https://dl.google.com/dl/android/studio/install/2.0.0.20/android-studio-bundle-143.2739321-windows.exe)
+<td style="padding: 4px 12px; vertical-align: top; border: 1px solid #dddddd; background-color: inherit;">
+<a href="https://dl.google.com/dl/android/studio/install/2.0.0.20/android-studio-bundle-143.2739321-windows.exe">android-studio-bundle-143.2739321-windows.exe</a> 
+[android-studio-bundle-143.2739321-windows.exe](https://dl.google.com/dl/android/studio/install/2.0.0.20/android-studio-bundle-143.2739321-windows.exe)
 Includes Android SDK **(recommended)**</td>
 <td id="win-bundle-size" style="padding: 4px 12px; vertical-align: top; border: 1px solid #dddddd; background-color: inherit;">1166 MB 
 (1223633080 bytes)</td>
